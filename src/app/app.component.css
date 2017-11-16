@@ -1,0 +1,43 @@
+
+
+/* 4 Blocks */
+.blocks li{padding:50px 0; text-align:center;}
+.blocks li .btn{margin-bottom:30px;}
+
+
+.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#82A800; border-color:#82A800;}
+.btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
+
+--------------------------------------------------------------------*/
+.fondoInicioSesion{
+    background:rgba(0,0,0,0.3);
+    color:#FFFFFF
+}
+
+.fondoElemento {
+    background: rgba(130, 168, 0, 0.8);
+    color: rgb(255, 255, 255)
+}
+.headertekst {
+
+    text-align: center;
+    width: 100%
+}
+
+.textoBlaco {
+    color: rgb(255, 255, 255);
+}
+
+.textoNegro {
+    color:black;
+    width: 339px;
+}
+
+.fondoTransparente {
+    background: rgba(255,255,255,0.3);
+    
+}
+
+tableC {
+    background-color: rgba(255,255,255,0.3);
+}
